@@ -1,0 +1,13 @@
+{
+    "name": "nayhtwe/bmi_calculator",
+    "description": "Body Mass Index Calculator For People",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+    		"Nayhtwe\\Bmi_calculator\\": "src/"
+    	}
+    }
+}
