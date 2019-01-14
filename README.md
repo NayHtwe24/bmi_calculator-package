@@ -1,5 +1,5 @@
-#BMI-Calclulator Package
+# BMI-Calclulator Package
 
-##Body Mass Index Calculator For People
+## Body Mass Index Calculator For People
 
  
